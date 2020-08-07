@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# EF1001: Internal EF Core API usage.
+dotnet_diagnostic.EF1001.severity = none
+
+# IDE0002: メンバー アクセスを単純化します
+dotnet_diagnostic.IDE0002.severity = none

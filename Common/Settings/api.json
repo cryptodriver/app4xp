@@ -1,0 +1,10 @@
+﻿{
+    "app4xp": {
+        "baseUrl": "https://{APP.Brand.Host}",
+        "actions": {
+            "sample": {
+                "random": "/api/breeds/image/random"
+            }
+        }
+    }
+}

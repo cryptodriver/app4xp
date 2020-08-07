@@ -1,0 +1,27 @@
+﻿# 共用部
+views.common.menu.exit = 終了
+
+views.common.text.yes = はい
+views.common.text.no = いいえ
+views.common.text.next = 次へ
+views.common.text.goback = 戻る
+views.common.text.comfirm = 確認
+views.common.text.cancel = キャンセル
+views.common.text.change = 変更
+
+views.common.information.success =  操作に成功しました
+views.common.information.failure = 操作に失敗しました
+
+
+############### ビュー          ###############
+views.main.win.title = APPタイトル
+
+############### バリデーション    ###############
+validator.rule.required = {0}が入力必要です。
+validator.rule.pattern = {0}の入力が不正です。
+validator.rule.different = 入力された{0}が{1}と一致しません。
+validator.rule.input.wrong = 入力された{0}が正しくありません。
+
+
+############### ビジネスメッセージ###############
+message.EB101001 = EB101001:ログインに失敗しました。
